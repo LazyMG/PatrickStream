@@ -12,7 +12,7 @@
 
 <br/>
 
-![대표이미지](./public/docs/images/ps_main.png)
+![대표이미지](ps_main.png)
 
 유튜브 뮤직 웹사이트를 참고해 구조와 주요 기능을 구현한 개인 풀스택 프로젝트입니다.
 
@@ -25,7 +25,7 @@
 프로젝트의 아키텍처입니다.
 프론트엔드의 배포는 vercel을 사용했습니다. 백엔드의 배포는 fly.io를 사용했으며 Database는 MongoDB를 사용했습니다.
 
-![프로젝트_아키텍처](./public/docs/images/ps_architect.png)
+![프로젝트_아키텍처](/ps_architect.png)
 
 ### 프로젝트 라이브러리
 
