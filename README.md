@@ -50,8 +50,8 @@
 
 ## 관련 링크
 
-배포 링크 : [https://www.patrickstream.xyz](https://www.patrickstream.xyz)
-프론트엔드 깃허브 링크: [https://github.com/LazyMG/patrick-stream_front](https://github.com/LazyMG/patrick-stream_front)
+배포 링크 : [https://www.patrickstream.xyz](https://www.patrickstream.xyz)  
+프론트엔드 깃허브 링크: [https://github.com/LazyMG/patrick-stream_front](https://github.com/LazyMG/patrick-stream_front)  
 백엔드 깃허브 링크: [https://github.com/LazyMG/patrick-stream_back](https://github.com/LazyMG/patrick-stream_back)
 
 <br/>
@@ -79,6 +79,6 @@
 
 ## 개발자 정보
 
-이마가: 풀스택 개발
-✉️ 이메일: cbfmark@gmail.com  
+이마가: 풀스택 개발  
+✉️ 이메일: cbfmark@gmail.com   
 🏠 블로그: [https://velog.io/@cbfmark/posts](https://velog.io/@cbfmark/posts)
